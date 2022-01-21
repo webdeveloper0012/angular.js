@@ -68,7 +68,7 @@
     "karma-script-launcher": "^1.0.0",
     "load-grunt-tasks": "^3.5.0",
     "lodash": "~4.17.21",
-    "log4js": "^0.6.27",
+    "log4js": "^6.4.0",
     "marked": "~0.3.0",
     "node-html-encoder": "0.0.2",
     "npm-run": "^4.1.0",
